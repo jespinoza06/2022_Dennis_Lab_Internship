@@ -19,3 +19,8 @@ Blockquotes, its a sentence or paragraph that's been specially formatted to draw
 Lists, thereare two types unordered and ordered. Unordered lists ar with bullet points and ordered lists are with numbers.To create an unordered list, you'll have to preface each item in the list with an asterisk ( * ). Each list item also gets its own line. To have an ordered lists, you'll put each number then what ever's in that lists and put equal space apart. 
 
 Paragraphs, accomplish this by inserting two spaces after each new line.
+
+Chromosome X is were my CNKSR2 gene is. 
+Gene upstream and down stream is 
+Diseases 
+Tissue with highest expression is brian cerebellar hemisphere 
