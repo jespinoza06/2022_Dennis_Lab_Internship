@@ -12,7 +12,7 @@ Headers to make them in Markdown, you preface the phrase with a hash mark aka (#
 
 Links, there are two different types in Markdown, both of them render the exact same way. The first link is called inline link you create this you wrap the link text in brackets ([]), and then you wrap the link in parenthesis. 
 
-Images, to make them you put an ! point in front of your ![Tiger]([https://i.natgeofe.com/n/6490d605-b11a-4919-963e-f1e6f3c0d4b6/sumatran-tiger-thumbnail-nationalgeographic_1456276.jpg?w=1200]) and the image of your animal or thing pops up. 
+Images, to make them you put an ! point in front of your ![Tiger](https://i.natgeofe.com/n/6490d605-b11a-4919-963e-f1e6f3c0d4b6/sumatran-tiger-thumbnail-nationalgeographic_1456276.jpg?w=1200) and the image of your animal or thing pops up. 
 
 Blockquotes, its a sentence or paragraph that's been specially formatted to draw attention to the reader. 
 
@@ -21,6 +21,11 @@ Lists, thereare two types unordered and ordered. Unordered lists ar with bullet 
 Paragraphs, accomplish this by inserting two spaces after each new line.
 
 Chromosome X is were my CNKSR2 gene is. 
-Gene upstream and down stream is 
-Diseases 
-Tissue with highest expression is brian cerebellar hemisphere 
+
+Gene upstream are RPS6KA3 and downstream are KLHL34, MBTPS2, and SMPX. 
+
+Diseases like generalized hypotonia, abnormality of the head ataxia spasticity fever hypertonia dystonia encephalopathy.
+
+Tissue with highest expression is brian cerebellar hemisphere.
+
+![CNKSR2](https://genome.ucsc.edu/trash/hgc/gtexGene_genome_121ee_5a9b0.png)
