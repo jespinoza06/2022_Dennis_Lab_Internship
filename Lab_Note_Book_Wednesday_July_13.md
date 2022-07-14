@@ -24,7 +24,7 @@ Chromosome X is were my CNKSR2 gene is.
 
 Gene upstream are RPS6KA3 and downstream are KLHL34, MBTPS2, and SMPX. 
 
-Diseases like generalized hypotonia, abnormality of the head ataxia spasticity fever hypertonia dystonia encephalopathy.
+Diseases. None. 
 
 Tissue with highest expression is brian cerebellar hemisphere.
 
