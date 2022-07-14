@@ -29,3 +29,18 @@ Diseases. None.
 Tissue with highest expression is brian cerebellar hemisphere.
 
 ![CNKSR2](https://genome.ucsc.edu/trash/hgc/gtexGene_genome_121ee_5a9b0.png)
+
+
+
+Thursday July 14,2022
+
+We are doing coding with R 
+1: Basic Building Blocks      2: Workspace and Files     
+ 3: Sequences of Numbers       4: Vectors                 
+ 5: Missing Values             6: Subsetting Vectors      
+ 7: Matrices and Data Frames   8: Logic                   
+ 9: Functions                 10: lapply and sapply       
+11: vapply and tapply         12: Looking at Data         
+13: Simulation                14: Dates and Times         
+15: Base Graphics             
+So far I have done 1, 2, and 3. 
