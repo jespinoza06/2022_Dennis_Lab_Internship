@@ -44,3 +44,20 @@ We are doing coding with R
 13: Simulation                14: Dates and Times         
 15: Base Graphics             
 So far I have done 1, 2, and 3. 
+
+##Swirl Math operations 
+ > * +,-,/,*
+
+Math Function
+> * sqtr(3-1)
+
+variables
+>* varaibles <- 3+y
+
+Vectors 
+> * c()vectors 
+> * assigning a variable to the vector x<- (1,5,10)
+
+**up arrow and tab**
+> * arrow up is to go up and change any mistakes
+> * tab is to check variables 
