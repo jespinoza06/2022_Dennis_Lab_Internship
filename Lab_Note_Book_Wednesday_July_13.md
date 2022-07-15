@@ -61,3 +61,11 @@ Vectors
 **up arrow and tab**
 > * arrow up is to go up and change any mistakes
 > * tab is to check variables 
+
+
+
+Friday July 15,2022 
+
+We did more coding with Sean though, but we did gene data into R. We learned how to make boxplot with our gene's tissue. Then we made one in a colorfull way were you can see what CNKSR2 gene tissues are the highest in the brain. 
+
+Then we did some coding to make all are data into a female and male digital diagram were you can see the brain is most used for the gene CNSKR2. 
